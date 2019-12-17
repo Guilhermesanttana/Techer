@@ -1,0 +1,6 @@
+C:\Users\guilherme.santana\source\repos\Linq01\bin\Debug\Linq01.exe.config
+C:\Users\guilherme.santana\source\repos\Linq01\bin\Debug\Linq01.exe
+C:\Users\guilherme.santana\source\repos\Linq01\bin\Debug\Linq01.pdb
+C:\Users\guilherme.santana\source\repos\Linq01\obj\Debug\Linq01.csprojAssemblyReference.cache
+C:\Users\guilherme.santana\source\repos\Linq01\obj\Debug\Linq01.exe
+C:\Users\guilherme.santana\source\repos\Linq01\obj\Debug\Linq01.pdb
