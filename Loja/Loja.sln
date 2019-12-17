@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loja", "Loja.csproj", "{DE56D52A-CA33-451A-B4FE-F3B5BC55E917}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LojaDominio", "..\LojaDominio\LojaDominio.csproj", "{E99B2BD0-CC62-40C0-8FCF-51300B509226}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE56D52A-CA33-451A-B4FE-F3B5BC55E917}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE56D52A-CA33-451A-B4FE-F3B5BC55E917}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE56D52A-CA33-451A-B4FE-F3B5BC55E917}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE56D52A-CA33-451A-B4FE-F3B5BC55E917}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E99B2BD0-CC62-40C0-8FCF-51300B509226}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E99B2BD0-CC62-40C0-8FCF-51300B509226}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E99B2BD0-CC62-40C0-8FCF-51300B509226}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E99B2BD0-CC62-40C0-8FCF-51300B509226}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {265CA58A-615C-4734-A652-B349F9F1D585}
+	EndGlobalSection
+EndGlobal

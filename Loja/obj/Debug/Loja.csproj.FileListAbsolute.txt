@@ -1,0 +1,11 @@
+C:\Users\guilherme.santana\source\repos\Loja\bin\Debug\Loja.exe.config
+C:\Users\guilherme.santana\source\repos\Loja\bin\Debug\Loja.exe
+C:\Users\guilherme.santana\source\repos\Loja\bin\Debug\Loja.pdb
+C:\Users\guilherme.santana\source\repos\Loja\bin\Debug\LojaDominio.dll
+C:\Users\guilherme.santana\source\repos\Loja\bin\Debug\LojaDominio.pdb
+C:\Users\guilherme.santana\source\repos\Loja\obj\Debug\Loja.csprojAssemblyReference.cache
+C:\Users\guilherme.santana\source\repos\Loja\obj\Debug\Loja.csproj.CopyComplete
+C:\Users\guilherme.santana\source\repos\Loja\obj\Debug\Loja.exe
+C:\Users\guilherme.santana\source\repos\Loja\obj\Debug\Loja.pdb
+C:\Users\guilherme.santana\source\repos\Loja\bin\Debug\Newtonsoft.Json.dll
+C:\Users\guilherme.santana\source\repos\Loja\bin\Debug\Newtonsoft.Json.xml
