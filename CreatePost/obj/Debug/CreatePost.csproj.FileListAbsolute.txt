@@ -1,0 +1,13 @@
+C:\Users\guilherme.santana\source\repos\CreatePost\bin\Debug\CreatePost.exe.config
+C:\Users\guilherme.santana\source\repos\CreatePost\bin\Debug\CreatePost.exe
+C:\Users\guilherme.santana\source\repos\CreatePost\bin\Debug\CreatePost.pdb
+C:\Users\guilherme.santana\source\repos\CreatePost\bin\Debug\EntityFramework.dll
+C:\Users\guilherme.santana\source\repos\CreatePost\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\guilherme.santana\source\repos\CreatePost\bin\Debug\EntityFramework.xml
+C:\Users\guilherme.santana\source\repos\CreatePost\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\guilherme.santana\source\repos\CreatePost\obj\Debug\CreatePost.csprojAssemblyReference.cache
+C:\Users\guilherme.santana\source\repos\CreatePost\obj\Debug\CreatePost.csproj.CopyComplete
+C:\Users\guilherme.santana\source\repos\CreatePost\obj\Debug\CreatePost.exe
+C:\Users\guilherme.santana\source\repos\CreatePost\obj\Debug\CreatePost.pdb
+C:\Users\guilherme.santana\source\repos\CreatePost\obj\Debug\CreatePost.Migrations.Initial.resources
+C:\Users\guilherme.santana\source\repos\CreatePost\obj\Debug\CreatePost.csproj.GenerateResource.cache

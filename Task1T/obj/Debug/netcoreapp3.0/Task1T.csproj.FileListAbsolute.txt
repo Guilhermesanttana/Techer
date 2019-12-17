@@ -1,0 +1,14 @@
+C:\Users\guilherme.santana\source\repos\Task1T\bin\Debug\netcoreapp3.0\Task1T.exe
+C:\Users\guilherme.santana\source\repos\Task1T\obj\Debug\netcoreapp3.0\Task1T.csprojAssemblyReference.cache
+C:\Users\guilherme.santana\source\repos\Task1T\obj\Debug\netcoreapp3.0\Task1T.AssemblyInfoInputs.cache
+C:\Users\guilherme.santana\source\repos\Task1T\obj\Debug\netcoreapp3.0\Task1T.AssemblyInfo.cs
+C:\Users\guilherme.santana\source\repos\Task1T\bin\Debug\netcoreapp3.0\Task1T.deps.json
+C:\Users\guilherme.santana\source\repos\Task1T\bin\Debug\netcoreapp3.0\Task1T.runtimeconfig.json
+C:\Users\guilherme.santana\source\repos\Task1T\bin\Debug\netcoreapp3.0\Task1T.runtimeconfig.dev.json
+C:\Users\guilherme.santana\source\repos\Task1T\bin\Debug\netcoreapp3.0\Task1T.dll
+C:\Users\guilherme.santana\source\repos\Task1T\bin\Debug\netcoreapp3.0\Task1T.pdb
+C:\Users\guilherme.santana\source\repos\Task1T\bin\Debug\netcoreapp3.0\CsvHelper.dll
+C:\Users\guilherme.santana\source\repos\Task1T\obj\Debug\netcoreapp3.0\Task1T.csproj.CopyComplete
+C:\Users\guilherme.santana\source\repos\Task1T\obj\Debug\netcoreapp3.0\Task1T.dll
+C:\Users\guilherme.santana\source\repos\Task1T\obj\Debug\netcoreapp3.0\Task1T.pdb
+C:\Users\guilherme.santana\source\repos\Task1T\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll

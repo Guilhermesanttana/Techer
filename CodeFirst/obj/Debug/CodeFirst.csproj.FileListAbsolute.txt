@@ -1,0 +1,13 @@
+C:\Users\guilherme.santana\source\repos\CodeFirst\bin\Debug\CodeFirst.exe.config
+C:\Users\guilherme.santana\source\repos\CodeFirst\bin\Debug\CodeFirst.exe
+C:\Users\guilherme.santana\source\repos\CodeFirst\bin\Debug\CodeFirst.pdb
+C:\Users\guilherme.santana\source\repos\CodeFirst\bin\Debug\EntityFramework.dll
+C:\Users\guilherme.santana\source\repos\CodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\guilherme.santana\source\repos\CodeFirst\bin\Debug\EntityFramework.xml
+C:\Users\guilherme.santana\source\repos\CodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\guilherme.santana\source\repos\CodeFirst\obj\Debug\CodeFirst.csprojAssemblyReference.cache
+C:\Users\guilherme.santana\source\repos\CodeFirst\obj\Debug\CodeFirst.csproj.CopyComplete
+C:\Users\guilherme.santana\source\repos\CodeFirst\obj\Debug\CodeFirst.exe
+C:\Users\guilherme.santana\source\repos\CodeFirst\obj\Debug\CodeFirst.pdb
+C:\Users\guilherme.santana\source\repos\CodeFirst\obj\Debug\CodeFirst.Migrations.CreatePost.resources
+C:\Users\guilherme.santana\source\repos\CodeFirst\obj\Debug\CodeFirst.csproj.GenerateResource.cache

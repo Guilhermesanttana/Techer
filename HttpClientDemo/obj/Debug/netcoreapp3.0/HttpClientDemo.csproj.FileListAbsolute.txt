@@ -1,0 +1,15 @@
+C:\Users\guilherme.santana\source\repos\HttpClientDemo\bin\Debug\netcoreapp3.0\HttpClientDemo.exe
+C:\Users\guilherme.santana\source\repos\HttpClientDemo\obj\Debug\netcoreapp3.0\HttpClientDemo.csprojAssemblyReference.cache
+C:\Users\guilherme.santana\source\repos\HttpClientDemo\obj\Debug\netcoreapp3.0\HttpClientDemo.AssemblyInfoInputs.cache
+C:\Users\guilherme.santana\source\repos\HttpClientDemo\obj\Debug\netcoreapp3.0\HttpClientDemo.AssemblyInfo.cs
+C:\Users\guilherme.santana\source\repos\HttpClientDemo\bin\Debug\netcoreapp3.0\HttpClientDemo.deps.json
+C:\Users\guilherme.santana\source\repos\HttpClientDemo\bin\Debug\netcoreapp3.0\HttpClientDemo.runtimeconfig.json
+C:\Users\guilherme.santana\source\repos\HttpClientDemo\bin\Debug\netcoreapp3.0\HttpClientDemo.runtimeconfig.dev.json
+C:\Users\guilherme.santana\source\repos\HttpClientDemo\bin\Debug\netcoreapp3.0\HttpClientDemo.dll
+C:\Users\guilherme.santana\source\repos\HttpClientDemo\bin\Debug\netcoreapp3.0\HttpClientDemo.pdb
+C:\Users\guilherme.santana\source\repos\HttpClientDemo\bin\Debug\netcoreapp3.0\System.Net.Http.Formatting.dll
+C:\Users\guilherme.santana\source\repos\HttpClientDemo\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\guilherme.santana\source\repos\HttpClientDemo\bin\Debug\netcoreapp3.0\Newtonsoft.Json.Bson.dll
+C:\Users\guilherme.santana\source\repos\HttpClientDemo\obj\Debug\netcoreapp3.0\HttpClientDemo.csproj.CopyComplete
+C:\Users\guilherme.santana\source\repos\HttpClientDemo\obj\Debug\netcoreapp3.0\HttpClientDemo.dll
+C:\Users\guilherme.santana\source\repos\HttpClientDemo\obj\Debug\netcoreapp3.0\HttpClientDemo.pdb
