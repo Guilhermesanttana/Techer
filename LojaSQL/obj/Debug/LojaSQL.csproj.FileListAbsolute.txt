@@ -1,0 +1,13 @@
+C:\Users\guilherme.santana\source\repos\LojaSQL\bin\Debug\LojaSQL.exe.config
+C:\Users\guilherme.santana\source\repos\LojaSQL\bin\Debug\LojaSQL.exe
+C:\Users\guilherme.santana\source\repos\LojaSQL\bin\Debug\LojaSQL.pdb
+C:\Users\guilherme.santana\source\repos\LojaSQL\bin\Debug\Loja.Infra.EntityFramework.dll
+C:\Users\guilherme.santana\source\repos\LojaSQL\bin\Debug\EntityFramework.dll
+C:\Users\guilherme.santana\source\repos\LojaSQL\bin\Debug\Loja.Infra.EntityFramework.pdb
+C:\Users\guilherme.santana\source\repos\LojaSQL\bin\Debug\EntityFramework.xml
+C:\Users\guilherme.santana\source\repos\LojaSQL\obj\Debug\LojaSQL.csprojAssemblyReference.cache
+C:\Users\guilherme.santana\source\repos\LojaSQL\obj\Debug\LojaSQL.csproj.CopyComplete
+C:\Users\guilherme.santana\source\repos\LojaSQL\obj\Debug\LojaSQL.exe
+C:\Users\guilherme.santana\source\repos\LojaSQL\obj\Debug\LojaSQL.pdb
+C:\Users\guilherme.santana\source\repos\LojaSQL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\guilherme.santana\source\repos\LojaSQL\bin\Debug\EntityFramework.SqlServer.xml

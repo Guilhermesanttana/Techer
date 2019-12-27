@@ -1,0 +1,57 @@
+Phase 1:
+Git para Iniciantes (1h): https://www.udemy.com/course/git-para-iniciantes;
+Learn C# (20h): https://www.codecademy.com/learn/learn-c-sharp;
+C# Basics for Beginners: Learn C# Fundamentals by Coding (5h): https://www.udemy.com/course/csharp-tutorial-for-beginners; 
+C# Intermediate: Classes, Interfaces and OOP (5,5h): https://www.udemy.com/course/csharp-intermediate-classes-interfaces-and-oop;
+C# Advanced Topics: Prepare for Technical Interviews (3h): https://www.udemy.com/course/csharp-advanced; 
+Dominando Linq e Lambda Expressions (3,5h): https://www.udemy.com/course/dominando-linq-e-lambda-expressions-com;
+
+Phase 2:
+Learn SQL (7h): https://www.codecademy.com/learn/learn-sql;
+Introduction to Databases and SQL Querying (2,5h): https://www.udemy.com/course/introduction-to-databases-and-sql-querying;  
+Curso de SQL-Server (5h): https://www.udemy.com/course/curso-de-sql-server;
+Advanced Databases and SQL Querying (3,5h): https://www.udemy.com/course/advanced-tsql-querying-using-sql-2014;
+
+Phase 3:
+Entity Framework in Depth: The Complete Guide (6,5h): https://www.udemy.com/course/entity-framework-tutorial; 
+ASP.NET Web API: Create RESTful API's using C# (2h): https://www.udemy.com/course/aspnet-web-api-create-restful-apis-in-c-using-net-45;
+
+Phase 4:
+AWS Essentials 2019 (8h):  https://www.udemy.com/course/linux-academy-aws-essentials-2019;
+
+Phase 5:
+Devtools Pro: Beginner to Export w/ Chrome Developer Tools  (2,5h): https://www.udemy.com/course/master-google-chrome-developer-tools; 
+Curso rápido do novo Typescript (3h):  https://www.udemy.com/course/curso-rapido-novo-typescript;
+Angular 8 - The Complete Guide (37h): https://www.udemy.com/course/the-complete-guide-to-angular-2  
+
+
+-------------------//-----------------------
+
+Task 1:
+C# Basics for Beginners
+C# Intermediate
+C# Advanced Topics
+
+Task 2:
+ASP.NET Web API: Create RESTFul API's using C#
+Entity Framework in Depth
+
+Task 3:
+Build a real-world app with ASP.NET Core 
+Angular 8 (formerly angular 2)
+Devtools Pro
+
+--------------------//-----------------------
+
+
+jl.uli1996@gmail.com
+senha : finaz2019
+
+Usuário: cursos2@techer.com.br
+Senha: tchr@cursos-2019
+
+Usuário: cursos3@techer.com.br
+Senha: tchr@cursos-2019
+
+Usuário: cursos4@techer.com.br
+Senha: tchr@cursos-2019

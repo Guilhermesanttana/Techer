@@ -131,7 +131,7 @@ namespace Loja
 
             //  -----------------------------------------------------  //
             //Pesquisa - Aula 05
-
+            /*
             var produtos = new Produto().Listar();
 
             
@@ -179,11 +179,71 @@ namespace Loja
             //Repete a string "Gui" 10 vezes
             var repetir = Enumerable.Repeat("Gui", 10);
 
+            //Valor produto mais caro
+            var valorProdutoMaisCaro = produtos.Max(x => x.Valor);
+
+            //Valor produto mais barato
+            var valorProdutoMaisBarato = produtos.Min(x => x.Valor);
+
+            //Media do valor dos produtos
+            var mediaValorProdutos = produtos.Average(x => x.Valor);
+
+            //Soma dos valores dos produtos
+            var somaValorProdutos = produtos.Sum(x => x.Valor);
+
+            Console.ReadKey();*/
+
+
+
+
+
+            //  -----------------------------------------------------  //
+            //Agrupamento e Agregação - Aula 06
+
+            var produtosFrutas = new Produto2().ListarFrutas();
+            var produtosEletronicos = new Produto2().ListarEletronicos();
+
+            var produtos = new List<Produto2>();
+            produtos.AddRange(produtosEletronicos);
+            produtos.AddRange(produtosFrutas);
+
+            produtos.ForEach(x =>
+            {
+                Console.WriteLine(JsonConvert.SerializeObject(x));
+            });
+
+            Console.WriteLine("---------------------------------------------");
+
+            //Super consulta haha
+            var resultado = (from p in produtos
+                            group p by p.Categoria into grupo
+                            select new RelatorioProdutoPorCategoria
+                            {
+                                NomeDaCategoria = grupo.Key,
+                                ValorMinimo = grupo.Min(x => x.Valor),
+                                ValorMaximo = grupo.Max(x => x.Valor),
+                                ValorTotal = grupo.Sum(x => x.Valor)
+                            }).OrderBy(x => x.NomeDaCategoria);
+
+            resultado.ToList().ForEach(x =>
+            {
+                Console.WriteLine(JsonConvert.SerializeObject(x));
+            });
+
             Console.ReadKey();
         }
     }
 
-    public class ProdutoSelecionado
+    public class RelatorioProdutoPorCategoria
+    {
+        public string NomeDaCategoria { get; set; }
+        public decimal ValorMinimo { get; set; }
+        public decimal ValorMaximo { get; set; }
+        public decimal ValorTotal { get; set; }
+    }
+
+
+public class ProdutoSelecionado
     {
         public string Name { get; set; }
         public decimal Value { get; set; }
@@ -200,3 +260,6 @@ namespace Loja
         }*/
     }
 }
+
+
+//350 158 200

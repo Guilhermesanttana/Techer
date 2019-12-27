@@ -9,5 +9,9 @@ C:\Users\guilherme.santana\source\repos\CodeFirst\obj\Debug\CodeFirst.csprojAsse
 C:\Users\guilherme.santana\source\repos\CodeFirst\obj\Debug\CodeFirst.csproj.CopyComplete
 C:\Users\guilherme.santana\source\repos\CodeFirst\obj\Debug\CodeFirst.exe
 C:\Users\guilherme.santana\source\repos\CodeFirst\obj\Debug\CodeFirst.pdb
-C:\Users\guilherme.santana\source\repos\CodeFirst\obj\Debug\CodeFirst.Migrations.CreatePost.resources
+C:\Users\guilherme.santana\source\repos\CodeFirst\obj\Debug\CodeFirst.Migrations.InitialModel.resources
 C:\Users\guilherme.santana\source\repos\CodeFirst\obj\Debug\CodeFirst.csproj.GenerateResource.cache
+C:\Users\guilherme.santana\source\repos\CodeFirst\obj\Debug\CodeFirst.Migrations.AddCategoriesTable.resources
+C:\Users\guilherme.santana\source\repos\CodeFirst\obj\Debug\CodeFirst.Migrations.CategoryCollumnToCourseTable.resources
+C:\Users\guilherme.santana\source\repos\CodeFirst\obj\Debug\CodeFirst.Migrations.AddDatePublishedColumnToCoursesTable.resources
+C:\Users\guilherme.santana\source\repos\CodeFirst\obj\Debug\CodeFirst.Migrations.RenameTitleToNameInCoursesTable.resources

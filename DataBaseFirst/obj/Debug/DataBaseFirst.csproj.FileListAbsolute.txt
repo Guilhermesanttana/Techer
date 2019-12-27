@@ -1,0 +1,11 @@
+C:\Users\guilherme.santana\source\repos\DataBaseFirst\bin\Debug\DataBaseFirst.exe.config
+C:\Users\guilherme.santana\source\repos\DataBaseFirst\bin\Debug\DataBaseFirst.exe
+C:\Users\guilherme.santana\source\repos\DataBaseFirst\bin\Debug\DataBaseFirst.pdb
+C:\Users\guilherme.santana\source\repos\DataBaseFirst\bin\Debug\EntityFramework.dll
+C:\Users\guilherme.santana\source\repos\DataBaseFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\guilherme.santana\source\repos\DataBaseFirst\bin\Debug\EntityFramework.xml
+C:\Users\guilherme.santana\source\repos\DataBaseFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\guilherme.santana\source\repos\DataBaseFirst\obj\Debug\DataBaseFirst.csprojAssemblyReference.cache
+C:\Users\guilherme.santana\source\repos\DataBaseFirst\obj\Debug\DataBaseFirst.csproj.CopyComplete
+C:\Users\guilherme.santana\source\repos\DataBaseFirst\obj\Debug\DataBaseFirst.exe
+C:\Users\guilherme.santana\source\repos\DataBaseFirst\obj\Debug\DataBaseFirst.pdb

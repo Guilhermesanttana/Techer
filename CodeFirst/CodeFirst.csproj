@@ -1,11 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
-  <Import Project="packages\EntityFramework.6.4.0\build\EntityFramework.props" Condition="Exists('packages\EntityFramework.6.4.0\build\EntityFramework.props')" />
   <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{4BCE05C5-D9DA-440C-928B-68BAA94E7B65}</ProjectGuid>
+    <ProjectGuid>{8369E2A7-D0A3-425E-B6CA-598A794EFA62}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>CodeFirst</RootNamespace>
     <AssemblyName>CodeFirst</AssemblyName>
@@ -13,8 +12,6 @@
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
-    <NuGetPackageImportStamp>
-    </NuGetPackageImportStamp>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -37,10 +34,10 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
-      <HintPath>packages\EntityFramework.6.4.0\lib\net45\EntityFramework.dll</HintPath>
+      <HintPath>packages\EntityFramework.6.1.3\lib\net45\EntityFramework.dll</HintPath>
     </Reference>
     <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
-      <HintPath>packages\EntityFramework.6.4.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+      <HintPath>packages\EntityFramework.6.1.3\lib\net45\EntityFramework.SqlServer.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.ComponentModel.DataAnnotations" />
@@ -53,11 +50,29 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Migrations\201912171246062_CreatePost.cs" />
-    <Compile Include="Migrations\201912171246062_CreatePost.designer.cs">
-      <DependentUpon>201912171246062_CreatePost.cs</DependentUpon>
+    <Compile Include="Category.cs" />
+    <Compile Include="Migrations\201912191351097_InitialModel.cs" />
+    <Compile Include="Migrations\201912191351097_InitialModel.Designer.cs">
+      <DependentUpon>201912191351097_InitialModel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201912191703473_AddCategoriesTable.cs" />
+    <Compile Include="Migrations\201912191703473_AddCategoriesTable.Designer.cs">
+      <DependentUpon>201912191703473_AddCategoriesTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201912191732450_CategoryCollumnToCourseTable.cs" />
+    <Compile Include="Migrations\201912191732450_CategoryCollumnToCourseTable.Designer.cs">
+      <DependentUpon>201912191732450_CategoryCollumnToCourseTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201912191821363_AddDatePublishedColumnToCoursesTable.cs" />
+    <Compile Include="Migrations\201912191821363_AddDatePublishedColumnToCoursesTable.Designer.cs">
+      <DependentUpon>201912191821363_AddDatePublishedColumnToCoursesTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201912191823358_RenameTitleToNameInCoursesTable.cs" />
+    <Compile Include="Migrations\201912191823358_RenameTitleToNameInCoursesTable.Designer.cs">
+      <DependentUpon>201912191823358_RenameTitleToNameInCoursesTable.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
+    <Compile Include="PlutoContext.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -66,17 +81,21 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\201912171246062_CreatePost.resx">
-      <DependentUpon>201912171246062_CreatePost.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\201912191351097_InitialModel.resx">
+      <DependentUpon>201912191351097_InitialModel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201912191703473_AddCategoriesTable.resx">
+      <DependentUpon>201912191703473_AddCategoriesTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201912191732450_CategoryCollumnToCourseTable.resx">
+      <DependentUpon>201912191732450_CategoryCollumnToCourseTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201912191821363_AddDatePublishedColumnToCoursesTable.resx">
+      <DependentUpon>201912191821363_AddDatePublishedColumnToCoursesTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201912191823358_RenameTitleToNameInCoursesTable.resx">
+      <DependentUpon>201912191823358_RenameTitleToNameInCoursesTable.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
-  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
-    <PropertyGroup>
-      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
-    </PropertyGroup>
-    <Error Condition="!Exists('packages\EntityFramework.6.4.0\build\EntityFramework.props')" Text="$([System.String]::Format('$(ErrorText)', 'packages\EntityFramework.6.4.0\build\EntityFramework.props'))" />
-    <Error Condition="!Exists('packages\EntityFramework.6.4.0\build\EntityFramework.targets')" Text="$([System.String]::Format('$(ErrorText)', 'packages\EntityFramework.6.4.0\build\EntityFramework.targets'))" />
-  </Target>
-  <Import Project="packages\EntityFramework.6.4.0\build\EntityFramework.targets" Condition="Exists('packages\EntityFramework.6.4.0\build\EntityFramework.targets')" />
 </Project>

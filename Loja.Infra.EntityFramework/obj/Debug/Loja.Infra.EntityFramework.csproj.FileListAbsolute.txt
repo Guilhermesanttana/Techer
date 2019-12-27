@@ -1,0 +1,10 @@
+C:\Users\guilherme.santana\source\repos\Loja.Infra.EntityFramework\bin\Debug\Loja.Infra.EntityFramework.dll
+C:\Users\guilherme.santana\source\repos\Loja.Infra.EntityFramework\bin\Debug\Loja.Infra.EntityFramework.pdb
+C:\Users\guilherme.santana\source\repos\Loja.Infra.EntityFramework\bin\Debug\EntityFramework.dll
+C:\Users\guilherme.santana\source\repos\Loja.Infra.EntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\guilherme.santana\source\repos\Loja.Infra.EntityFramework\bin\Debug\EntityFramework.xml
+C:\Users\guilherme.santana\source\repos\Loja.Infra.EntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\guilherme.santana\source\repos\Loja.Infra.EntityFramework\obj\Debug\Loja.Infra.EntityFramework.csprojAssemblyReference.cache
+C:\Users\guilherme.santana\source\repos\Loja.Infra.EntityFramework\obj\Debug\Loja.Infra.EntityFramework.csproj.CopyComplete
+C:\Users\guilherme.santana\source\repos\Loja.Infra.EntityFramework\obj\Debug\Loja.Infra.EntityFramework.dll
+C:\Users\guilherme.santana\source\repos\Loja.Infra.EntityFramework\obj\Debug\Loja.Infra.EntityFramework.pdb
