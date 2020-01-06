@@ -1,0 +1,17 @@
+GIT
+Os códigos produzidos deverão ser adicionados aos respectivos repositórios:
+
+● Front-end: https://git-codecommit.sa-east-1.amazonaws.com/v1/repos/Teste1A_Frontend
+● Back-end: https://git-codecommit.sa-east-1.amazonaws.com/v1/repos/Teste1A_Backend
+
+Credenciais:
+● User name: Usuario_Teste1A-at-651203979583
+● Password: R5PWsSd9bKpzDIFRmMbQFajnSp5rl839UTS82gturDc=
+
+
+● Marque o valor da cidade inicial como zero (pois a distância de A a A é zero);
+● Enquanto seu destino [ou todas as cidades] ainda não foi visitado, faça:
+● Selecione a cidade X não visitada com o menor valor;
+● Selecione todas as cidades Y não visitadas que são adjacentes a ela (i.e. alcançáveis a partir dela);
+● Some a distância entre X e Y com o valor de X, e compare com o valor de Y; se for menor, atualize o valor de Y e o campo anterior de Y;
+● Marque a cidade X como "visitada".
